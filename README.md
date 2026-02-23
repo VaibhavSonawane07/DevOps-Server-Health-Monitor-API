@@ -105,5 +105,6 @@ http://localhost:5000
   "disk_usage_percent": 68.5
 }
 ```
-
+## output
+<img width="1854" height="1048" alt="Screenshot from 2026-02-23 15-17-48" src="https://github.com/user-attachments/assets/8ce041c8-6aa0-410f-8589-8c9202702558" />
 
