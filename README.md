@@ -1,4 +1,4 @@
-# 🚀 DevOps Server Health Monitor API
+# DevOps Server Health Monitor API
 
 A lightweight Flask-based REST API that monitors server health metrics like CPU, Memory, and Disk usage.
 
@@ -10,7 +10,7 @@ Built using:
 
 ---
 
-## 📌 Features
+##  Features
 
 - CPU Usage Monitoring
 - Memory Usage Monitoring
@@ -21,7 +21,7 @@ Built using:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 devops-server-health-monitor/
