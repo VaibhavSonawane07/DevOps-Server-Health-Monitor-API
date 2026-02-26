@@ -35,7 +35,7 @@ devops-server-health-monitor/
 
 ---
 
-## ⚙️ Installation (Without Docker)
+## Installation (Without Docker)
 
 ### 1. Clone the repository
 
@@ -72,7 +72,7 @@ http://localhost:5000
 
 ---
 
-## 🐳 Run with Docker
+## Run with Docker
 
 ### 1. Build Docker Image
 
@@ -94,7 +94,7 @@ http://localhost:5000
 
 ---
 
-## 📊 Sample JSON Response
+## Sample JSON Response
 
 ```
 {
